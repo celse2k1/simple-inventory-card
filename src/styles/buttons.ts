@@ -52,13 +52,17 @@ export const buttonStyles: CSSResult = css`
   .add-new-btn:active {
     transform: translateY(0);
   }
-
+// Edit Fonf ans button size
   .control-btn {
-    padding: 8px 12px;
-    font-size: 16px;
+    //padding: 8px 12px;
+    padding: 4px 8px;
+    //font-size: 16px;
+    font-size: 10px;
     font-weight: bold;
-    min-width: 40px;
-    min-height: 40px;
+    //min-width: 40px;
+    //min-height: 40px;
+    min-width: 20px;
+    min-height: 20px;
     background: var(--primary-color);
     color: var(--text-primary-color);
     border: none;
