@@ -4,11 +4,11 @@ export const itemRowStyles: CSSResult = css`
   .item-row {
     display: flex;
     flex-direction: column;
-    padding: 12px;
-    margin-bottom: 8px;
+    padding: 4px;
+    margin-bottom: 3px;
     border: 1px solid var(--divider-color, #e8e8e8);
     border-radius: 8px;
-    gap: 8px;
+    gap: 2px;
   }
 
   .item-row.zero-quantity {
