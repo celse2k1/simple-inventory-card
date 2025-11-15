@@ -63,7 +63,7 @@ export const buttonStyles: CSSResult = css`
     //min-height: 40px;
     min-width: 20px;
     min-height: 20px;
-    background: var(--primary-color);
+    background: #009ac770;
     color: var(--text-primary-color);
     border: none;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
